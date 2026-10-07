@@ -71,6 +71,6 @@
 //             case "Tuesday" -> result = "7am";
 //             case "Thrusday" -> result = "8am";
 //         }
-//         Syst
+//         System.out.println(result);
 //     }
 // }
